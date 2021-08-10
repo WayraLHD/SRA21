@@ -1,13 +1,21 @@
 import random as ra #Importa librerias
 import numpy as np
-
+#TODO ESTE CODIGO ES DIDACTICO
+#Tomar como ejemplo para ver la sintaxis de python
 
 class planilla:   #Define una clase 
     "Las clases proveen una forma de empaquetar datos y funcionalidad juntos.\
     Al crear una nueva clase, se crea un nuevo tipo de objeto, permitiendo crear \
     nuevas instancias de ese tipo. Cada instancia de clase puede tener atributos \
     adjuntos para mantener su estado. Las instancias de clase también pueden tener\
-    métodos (definidos por su clase) para modificar su estado."
+    métodos (definidos por su clase) para modificar su estado  . \
+     En Python todo es un objeto. Cuando creas una variable y le   \
+     asignas un valor entero, ese valor es un objeto; una función es un objeto;\
+     las listas, tuplas, diccionarios, conjuntos, … son objetos; \
+     una cadena de caracteres es un objeto. "
+    
+    
+    
     
     "En este caso esta clase crea objetos que tienen un diccionario como variable global \
      planilla.Planilla_ "
