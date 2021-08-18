@@ -1,0 +1,9 @@
+\begin{enumerate}[A.]
+\item Realizar una sintética introducción teórica del tema a tratar.
+\item Analizar los circuitos propuestos, todos los cálculos analíticos y su desarrollo numérico.
+\item Simulación en SPICE .
+\item Analizar las condiciones de operación límite.
+\item Armar el circuito y hacer las mediciones en laboratorio.
+\item Finalmente comparar los valores calculados, simulados y medidos, y extraer conclusiones a cerca de las diferencias. Analizar las causas.
+\item Presentar un informe digital, bien redactado en \LaTeX, inicializado con la propuesta del problema presentado por la Cátedra, los responsables del trabajo y un análisis profesional de cada ítem. La redacción debe ser acorde a un informe de un futuro ingeniero.
+\end{enumerate}
